@@ -1,1 +1,0 @@
-Application shows Android encryption functions.
